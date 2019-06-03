@@ -48,7 +48,7 @@ dependencies {
     compile('org.springframework.boot:spring-boot-starter-thymeleaf')
     compile('org.springframework.boot:spring-boot-starter-web')
 
-    compile('org.webjars:Semantic-UI:2.1.8')
+    compile('org.webjars:Semantic-UI:2.4.1')
     compile('org.webjars:jquery:2.2.1')
     compile('org.webjars:handlebars:4.0.2')
     compile('org.webjars:d3js:3.5.12')
